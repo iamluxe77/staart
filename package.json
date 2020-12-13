@@ -1,5 +1,5 @@
 {
-  "name": "@staart/api",
+  "name": "iamluxe77/staart",
   "template": "staart/api",
   "version": "3.6.13",
   "description": "SaaS backend framework with users, payments, APIs, and more",
