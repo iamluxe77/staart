@@ -41,7 +41,7 @@
     "aws-sdk": "^2.788.0",
     "bcrypt": "^5.0.0",
     "class-transformer": "^0.3.1",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "cloudinary": "^1.23.0",
     "dot-object": "^2.1.4",
     "firebase-admin": "^9.4.0",
